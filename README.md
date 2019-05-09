@@ -12,3 +12,7 @@ Useful documents
 -
 <a href="http://bit.ly/2G9qF8R">Ontology Design Processus</a>.  
 <a href="http://bit.ly/2UgtDCf">Design Principles (FR)</a>.  
+
+Community
+-
+<a href="https://t.me/TheScribeProject">Telegram</a>.  
