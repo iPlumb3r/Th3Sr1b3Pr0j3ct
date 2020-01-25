@@ -1,5 +1,11 @@
-# Th3Sr1b3Pr0j3ct
+Th3Sr1b3Pr0j3ct
+==
 The SCRIBE Project aims to build a distributed **Conceptionary Manager** which is a distributed application which allow to manage 1 or several **Conceptionary**. 
+
+IMPORTANT NOTE
+==
+This project in in "Stand-By" mode 
+=> The following links are not available anymore
 
 Key documents
 -
