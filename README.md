@@ -4,22 +4,10 @@ The SCRIBE Project aims to build a distributed **Conceptionary Manager** which i
 
 IMPORTANT NOTE
 ==
-This project in in "Stand-By" mode 
-=> The following links are not available anymore
+This project in in "Stand-By" mode ...
+.. but thank to <a href="https://github.com/iPlumb3r/KeepLink">KeepLink</a>, the specification effort could (re-)start soon, just because of the model flexibility of this tool
 
-Key documents
--
-<a href="http://bit.ly/2HTCL9k">Visual Pitch</a>.  
-<a href="http://bit.ly/2TFAOys">Dashboard</a>.  
-<a href="http://bit.ly/2HTpM6K">Specification (EN)</a>.  
-<a href="http://bit.ly/2UeH9FK">Specification (FR)</a>.  
-
-Useful documents
--
-<a href="http://bit.ly/2G9qF8R">Ontology Design Processus</a>.  
-<a href="http://bit.ly/2UgtDCf">Design Principles (FR)</a>.  
-
-Community
+Resources
 -
 <a href="https://t.me/TheScribeProject">Telegram</a>.  
 
