@@ -4,7 +4,7 @@ The SCRIBE Project aims to build a distributed **Conceptionary Manager** which i
 
 IMPORTANT NOTE
 ==
-This project in in "Stand-By" mode ...
+This project in in "Stand-By" mode ...   
 .. but thank to <a href="https://github.com/iPlumb3r/KeepLink">KeepLink</a>, the specification effort could (re-)start soon, just because of the model flexibility of this tool
 
 Resources
