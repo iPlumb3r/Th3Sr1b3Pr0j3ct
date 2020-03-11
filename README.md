@@ -2,6 +2,12 @@ Th3Sr1b3Pr0j3ct
 ==
 The SCRIBE Project aims to build a distributed **Conceptionary Manager** which is a distributed application which allow to manage 1 or several **Conceptionary**. 
 
+Motivation
+-
+In order to better define "What Are We Talking About ?"
+
+![WAWTA](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/WhatAreWeTalkingAbout.png)
+
 IMPORTANT NOTE
 ==
 This project in in "Stand-By" mode ...   
