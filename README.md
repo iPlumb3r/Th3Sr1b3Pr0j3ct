@@ -11,7 +11,7 @@ In order to better define "What Are We Talking About ?"
 IMPORTANT NOTE
 ==
 This project in in "Stand-By" mode ...   
-.. but thank to <a href="https://github.com/iPlumb3r/KeepLink">KeepLink</a>, the specification effort could (re-)start soon, just because of the model flexibility of this tool
+.. but thanks to <a href="https://github.com/iPlumb3r/KeepLink">KeepLink</a>, the specification effort could (re-)start soon, just because of the model flexibility of this tool
 
 Resources
 -
