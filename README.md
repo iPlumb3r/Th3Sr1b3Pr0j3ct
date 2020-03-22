@@ -24,6 +24,11 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
             <td>Onto-Terminology Model(s)</td>
             <td>N/A</td>
         </tr>
+        <tr>
+            <th>Domain</th>
+            <td>Knowledge Engineering</td>
+            <td>N/A</td>
+        </tr>
     </tbody>
 </table>
 
