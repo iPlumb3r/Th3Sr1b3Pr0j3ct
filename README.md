@@ -1,5 +1,35 @@
 Th3Sr1b3Pr0j3ct
 ==
+
+Initiative ID Card
+-
+_Note : EBR ID allows to semantically navigate in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository</a>_
+
+<table>
+    <thead>
+        <tr>
+            <th>What ?</th>
+            <th>Label</th>
+            <th>EBR ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Initiative</th>
+            <td>Th3Sr1b3Pr0j3ct</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/16778">#1677</a></td>
+        </tr>
+        <tr>
+            <th>Deliverable</th>
+            <td>Onto-Terminology Model(s)</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+Introduction
+-
+
 The SCRIBE Project aims to build a distributed **Conceptionary Manager** which is a distributed application which allow to manage 1 or several **Conceptionary**. 
 
 Motivation
