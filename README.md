@@ -29,6 +29,11 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
             <td>Knowledge Engineering</td>
             <td>N/A</td>
         </tr>
+        <tr>
+            <th>Uses</th>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks">HGQ-4-KEEP</a> (Meta-Modeling)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a></td>
+        </tr>
     </tbody>
 </table>
 
