@@ -19,7 +19,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Description</th>
-            <td>Tbuild a distributed **Conceptionary Manager** which is a distributed application which allow to manage 1 or several **Conceptionary**.</td>
+            <td>Build a distributed Conceptionary Manager which is a distributed application which allow to manage 1 (or several) Conceptionary(ies).</td>
             <td>N/A</td>
         </tr>
         <tr>
