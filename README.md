@@ -13,9 +13,14 @@ Initiative ID Card
     </thead>
     <tbody>
         <tr>
-            <th>Initiative</th>
+            <th>Name</th>
             <td>Th3Sr1b3Pr0j3ct</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>
+        </tr>
+        <tr>
+            <th>Description</th>
+            <td>Tbuild a distributed **Conceptionary Manager** which is a distributed application which allow to manage 1 or several **Conceptionary**.</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <th>Deliverable</th>
