@@ -4,7 +4,7 @@ Use cases of the __Th3Sr1b3Pr0j3ct__ are made of examples of already built __Con
 
 In Short
 -
-A __Conceptionary__ is like "a stone in the middle of the river" is the process to built an __Ontology__.
+A __Conceptionary__ is like _"a stone in the middle of the river"_ is the process to built an __Ontology__.
 
 About Conceptionaries
 -
