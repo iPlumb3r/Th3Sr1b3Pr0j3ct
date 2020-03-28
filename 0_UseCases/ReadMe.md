@@ -35,6 +35,11 @@ Examples
             <td><a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/1_Semantic/Conceptionary">Ecosystem Mapping Conceptionary</a></td>
             <td><a href="https://github.com/">GitHub</a> / "Web Pages"</td>
         </tr>
+       <tr>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks">KeQuarks</a></td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/tree/master/1_Semantic/Conceptionary">KeQuarks Conceptionary</a></td>
+            <td><a href="https://github.com/">GitHub</a> / "Web Pages"</td>
+        </tr>
         <tr>
             <td>Value Chain</td>
             <td><a href="https://roamresearch.com/#/app/EntangledBootstrap/">Value Chain Conceptionary</a></td>
