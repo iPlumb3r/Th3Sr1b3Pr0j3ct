@@ -13,7 +13,8 @@ This <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/2_Deli
 Template
 -
 Some Conceptionary "entry" examples
-
+* GitHub "Web Page" - based entry : <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/Template/ConceptionaryEntry.md">here</a>
+* Roam "Note" - based entry : <a href="https://roamresearch.com/#/app/EntangledBootstrap/page/1fZzExIam">here</a>
 
 Examples
 -
