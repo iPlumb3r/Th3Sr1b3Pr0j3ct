@@ -48,7 +48,7 @@ Examples
     </tbody>
 </table>
 
-Remark
+Lessons learned
 ==
 All used tools i the "example" section are in fact not very useful for managing conceptionary !!
 Hereafter a synthesis of pros and cons for each tool
