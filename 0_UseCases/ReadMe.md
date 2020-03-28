@@ -17,3 +17,26 @@ Some Conceptionary "entry" examples
 
 Examples
 -
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Initiative</th>
+            <th>Conceptionary</th>
+            <th>Tool</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ecosystem Mapping</td>
+            <td>URL</td>
+            <td>GitHub "Web Pages"</td>
+        </tr>
+        <tr>
+            <td>Value Chain</td>
+            <td>URL</td>
+            <td>Roam "Note"</td>
+        </tr>
+    </tbody>
+</table>
