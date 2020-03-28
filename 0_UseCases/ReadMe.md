@@ -1,6 +1,6 @@
 Use Cases
 ==
-Use cases of the Th3Sr1b3Pr0j3ct are made of examples of already built __Conceptionary__.
+Use cases of the __Th3Sr1b3Pr0j3ct__ are made of examples of already built __Conceptionary__.
 
 In Short
 -
