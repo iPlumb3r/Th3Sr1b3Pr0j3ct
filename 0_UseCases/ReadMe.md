@@ -10,7 +10,7 @@ About Conceptionaries
 -
 This <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/2_Deliverables/Conceptionary/ReadMe.md/">page</a> give information about :
 * What is a Conceptionary ?
-* How to build it ?
+* How to build a Conptionary ?
 * Which tool to use ?
 
 Template
