@@ -36,7 +36,7 @@ Examples
         <tr>
             <td>Value Chain</td>
             <td><a href="https://roamresearch.com/#/app/EntangledBootstrap/">Value Chain Conceptionary</a></td>
-            <td><a href="https://roamresearch.com/">Roam</a> "Note"</td>
+            <td><a href="https://roamresearch.com/">Roam</a> "Notes"</td>
         </tr>
     </tbody>
 </table>
