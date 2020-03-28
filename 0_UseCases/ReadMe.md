@@ -1,9 +1,12 @@
 Use Cases
 ==
+Use cases of the Th3Sr1b3Pr0j3ct are made of examples of already built __Conceptionary__.
 
-Building a Conceptionary is part of the work of building an Ontology
+In Short
+-
+A __Conceptionary__ is like "a stone in the middle of the river" is the process to built an __Ontology__.
 
-Methodology
+About Conceptionaries
 -
 This <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/2_Deliverables/Conceptionary/ReadMe.md/">page</a> give information about :
 * What is a Conceptionary ?
