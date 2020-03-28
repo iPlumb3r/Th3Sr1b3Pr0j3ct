@@ -29,14 +29,14 @@ Examples
     </thead>
     <tbody>
         <tr>
-            <td>Ecosystem Mapping</td>
-            <td>URL</td>
-            <td>GitHub "Web Pages"</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a> </td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/1_Semantic/Conceptionary">Ecosystem Mapping Conceptionary</a></td>
+            <td><a href="https://github.com/">GitHub</a> "Web Pages"</td>
         </tr>
         <tr>
             <td>Value Chain</td>
-            <td>URL</td>
-            <td>Roam "Note"</td>
+            <td><a href="https://roamresearch.com/#/app/EntangledBootstrap/">Value Chain Conceptionary</a></td>
+            <td><a href="https://roamresearch.com/">Roam</a> "Note"</td>
         </tr>
     </tbody>
 </table>
