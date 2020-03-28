@@ -15,14 +15,12 @@ This <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/2_Deli
 
 Template
 -
-Some Conceptionary "entry" examples
+Some Conceptionary "entry" template using differents tools :
 * GitHub "Web Page" - based entry : <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/blob/master/Template/ConceptionaryEntry.md">here</a>
 * Roam "Note" - based entry : <a href="https://roamresearch.com/#/app/EntangledBootstrap/page/1fZzExIam">here</a>
 
 Examples
 -
-
-
 <table>
     <thead>
         <tr>
@@ -49,3 +47,7 @@ Examples
         </tr>
     </tbody>
 </table>
+
+Remark
+-
+Used tools are not very useful for managing conceptionary
