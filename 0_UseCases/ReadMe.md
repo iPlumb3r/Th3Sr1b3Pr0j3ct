@@ -49,5 +49,20 @@ Examples
 </table>
 
 Remark
--
+==
 Used tools are not very useful for managing conceptionary
+
+GitHub
+-
+* Presentation : Each Concept "entry" is "ID Card". Multilangual seen as table. Look nice, very heavy to create and/or maintain.
+* Semantic : this is absolutely no semantic in this tool
+
+Roam
+-
+* Presentation : Each Concept "entry" is "ID Card" . Bullet only presentation. Multilangual seen as differents lines (not table).
+* Semantic : this is absolutely no semantic in this tool. Roam note just connect Term togheter, but not Concept
+
+Excel / Google SpreadSheet
+-
+* Presentation : Each Concept "entry" is a line of a table. There is no Concept "ID Card" presentation. ultilangual seen as differents lines
+* Semantic : this is absolutely no semantic in this tool. Roam note just connect Term togheter, but not Concept
