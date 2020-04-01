@@ -33,6 +33,12 @@ Key Concepts
 
 Important Remark
 -
-The Semiotic Triangle incarnate relations between the "thing", the "concept" (which represent it) and the "term" (used to talk about it). It make consensus from a conceptual point of view, but NOT from a terminological one (Cf nb of terms at each extremity of the triangle !)    
+The Semiotic Triangle which incarnate relations between :
+* #st0 (The "Thing"), 
+* #st1 (The "Signified") => its mental representation 
+* and #st2 (The "Signified) => more often the "Term" used to talk about it  
+
+... make consensus from a conceptual point of view, but NOT from a terminological one !!!   
+(Cf nb of terms at each extremity of the triangle)   
 
 ![SemioticTriangle](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/SemioticTriangle_NoConsensus.jpg)
