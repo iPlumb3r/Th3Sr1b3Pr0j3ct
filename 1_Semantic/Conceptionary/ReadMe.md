@@ -27,7 +27,7 @@ Key Concepts
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st2_Signifier.md">#st2</a></td>
             <td>Signifier</td>
-            <td>Sign (term, icon, sound, ...) used for referencing <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st1_Signified.md">#st1</a></td>
+            <td>Sign (term, icon, sound, ...) used for referencing a <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st1_Signified.md">#st1</a></td>
         </tr>
     </tbody>
 </table>
