@@ -1,10 +1,8 @@
 Conceptionary
 =
-Key Concepts
--
-Key Concepts
--
 
+Key Concepts
+-
 <table>
     <thead>
         <tr>
