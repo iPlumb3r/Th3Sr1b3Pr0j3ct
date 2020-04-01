@@ -36,7 +36,7 @@ Important Remark
 The Semiotic Triangle which incarnate relations between :
 * #st0 (The "Thing"), 
 * #st1 (The "Signified") => its mental representation 
-* and #st2 (The "Signified) => more often the "Term" used to talk about it  
+* #st2 (The "Signified) => more often the "Term" used to talk about it  
 
 ... make consensus from a conceptual point of view, but NOT from a terminological one !!!   
 (Cf nb of terms at each extremity of the triangle)   
