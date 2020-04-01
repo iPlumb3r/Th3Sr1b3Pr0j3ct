@@ -33,7 +33,7 @@ Key Concepts
 
 Important Remark
 -
-The Semiotic Triangle which incarnate relations between :
+It is funny (or dramatic) to notice that The Semiotic Triangle which incarnate relations between :
 * #st0 (The "Thing"), 
 * #st1 (The "Signified") => its mental representation 
 * #st2 (The "Signified) => more often the "Term" used to talk about it  
