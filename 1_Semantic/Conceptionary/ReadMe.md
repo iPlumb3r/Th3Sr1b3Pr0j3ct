@@ -21,12 +21,12 @@ Key Concepts
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st1_Signified.md">#st1</a></td>
-            <td>Signfied</td>
+            <td>Signified</td>
             <td>The mental representation of a <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st0_Thing.md">#st0</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st2_Signifier.md">#st2</a></td>
-            <td>Signfier</td>
+            <td>Signifier</td>
             <td>The sign used for referencing <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st1_Signified.md">#st1</a></td>
         </tr>
     </tbody>
