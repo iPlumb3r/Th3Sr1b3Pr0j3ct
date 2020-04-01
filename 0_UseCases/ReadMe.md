@@ -41,7 +41,7 @@ Examples
             <td><a href="https://github.com/">GitHub</a> / "Web Pages"</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">KeQuarks</a></td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a></td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/1_Semantic/Conceptionary">Th3Sr1b3Pr0j3ct Conceptionary</a></td>
             <td><a href="https://github.com/">GitHub</a> / "Web Pages"</td>
         </tr>
