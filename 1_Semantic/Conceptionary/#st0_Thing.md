@@ -12,7 +12,7 @@ Prefered Label
     </thead>
     <tbody>
         <tr>
-            <tdThing</td>
+            <td>Thing</td>
             <td>Chose</td>
         </tr>
     </tbody>
@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Item, Element, ...</td>
+            <td>Item, Elément, ...</td>
         </tr>
     </tbody>
 </table>
@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>A particular thing.</td>
+            <td>Une chose particulière.</td>
         </tr>
     </tbody>
 </table>
@@ -63,8 +63,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Could be anything tangible (atom-based) or intangible (energy-baed, bit-based or concept-based).</td>
+            <td>Peut-être une chose tangible (faite d'atome) ou intangible (basé sur de l'énergie, des bits ou des concepts.</td>
         </tr>
     </tbody>
 </table>
@@ -72,27 +72,28 @@ Comment(s)
 Individuals
 -
 
-
 Some examples : 
 <table>
     <thead>
         <tr>
-            <th>Individual</th>
-            <th>Type</th>
+            <th>Example</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Tim Berner Lee</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Paris</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Electricity</td>
+        </tr>
+        <tr>
+            <td>Topincs</td>
+        </tr>
+        <tr>
+            <td>Topic Maps</td>
         </tr>
     </tbody>
 </table>
