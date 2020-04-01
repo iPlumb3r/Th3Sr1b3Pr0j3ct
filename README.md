@@ -33,6 +33,16 @@ Initiative ID Card
             <td>N/A</td>
         </tr>
         <tr>
+            <th>Used By (model)</th>
+            <td><a href="https://github.com/iPlumb3r/pEAr4pEEr">pEAr4pEEr</a> (Enterprise Architecture)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1673">#1673</a></td>
+        </tr>
+        <tr>
+            <th>Used By (model)</th>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">Ecosystem Mapping</a> (Semantic Cartography of Ecosystems)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
+        </tr>
+        <tr>
             <th>Uses (model)</th>
             <td><a href="https://github.com/iPlumb3r/KeQuarks">HGQ-4-KEEP</a> (Meta-Modeling)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a></td>
