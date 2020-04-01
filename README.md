@@ -44,7 +44,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Uses (model)</th>
-            <td><a href="https://github.com/iPlumb3r/KeQuarks">HGQ-4-KEEP</a> (Meta-Modeling)</td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks">KeQuarks</a> (Meta-Modeling)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a></td>
         </tr>
         <tr>
