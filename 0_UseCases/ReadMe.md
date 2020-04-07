@@ -56,7 +56,7 @@ Examples
             <td><a href="https://docs.google.com/spreadsheets/">Google SpreadSheet</a> / "Lines"</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/assemblee-virtuelle/pair">Project Actor Idea Resource (PAIR</a></td>
+            <td><a href="https://github.com/assemblee-virtuelle/pair">Project Actor Idea Resource (PAIR)</a></td>
             <td><a href="https://roamresearch.com/#/app/pair">PAIR Conceptionary</a></td>
             <td><a href="https://roamresearch.com/">Roam</a> / "Notes"</td>
         </tr>
