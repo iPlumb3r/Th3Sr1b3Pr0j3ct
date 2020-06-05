@@ -36,8 +36,8 @@ Examples
             <td><a href="https://github.com/">GitHub</a> / "Web Pages"</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/pEAr4PEEr">Enterprise Architecture</a></td>
-            <td><a href="https://github.com/iPlumb3r/pEAr4PEEr/tree/master/1_Semantic/Conceptionary">Ecosystem Mapping Conceptionary</a></td>
+            <td><a href="https://github.com/iPlumb3r/pEAr4PEEr">pEAr4PEEr</a></td>
+            <td><a href="https://github.com/iPlumb3r/pEAr4PEEr/tree/master/1_Semantic/Conceptionary">Enterprise Architecture Conceptionary</a></td>
             <td><a href="https://github.com/">GitHub</a> / "Web Pages"</td>
         </tr>
        <tr>
