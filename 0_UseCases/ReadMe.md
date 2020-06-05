@@ -35,6 +35,11 @@ Examples
             <td><a href="https://github.com/iPlumb3r/EcosystemMapping/tree/master/1_Semantic/Conceptionary">Ecosystem Mapping Conceptionary</a></td>
             <td><a href="https://github.com/">GitHub</a> / "Web Pages"</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/pEAr4PEEr">Enterprise Architecture</a></td>
+            <td><a href="https://github.com/iPlumb3r/pEAr4PEEr/tree/master/1_Semantic/Conceptionary">Ecosystem Mapping Conceptionary</a></td>
+            <td><a href="https://github.com/">GitHub</a> / "Web Pages"</td>
+        </tr>
        <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks">KeQuarks</a></td>
             <td><a href="https://github.com/iPlumb3r/KeQuarks/tree/master/1_Semantic/Conceptionary">KeQuarks Conceptionary</a></td>
