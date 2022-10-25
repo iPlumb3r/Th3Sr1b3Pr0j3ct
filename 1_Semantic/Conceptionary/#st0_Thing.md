@@ -63,7 +63,7 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Could be anything tangible (atom-based) or intangible (energy-baed, bit-based or concept-based).</td>
+            <td>Could be anything tangible (atom-based) or intangible (energy-based, bit-based or concept-based).</td>
             <td>Peut-être une chose tangible (constitué d'atomes) ou intangible (basé sur de l'énergie, des bits ou des concepts.</td>
         </tr>
     </tbody>
