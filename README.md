@@ -74,9 +74,14 @@ In order to better define "What Are We Talking About ?"
 
 ![WAWTA](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/WhatAreWeTalkingAbout.png)
 
-About %60Conceptionary%62
+About Conceptionary
 ==
+In a <Dictionary>, each entry is a <Term> associated to 1 (or N) definition(s) …
+… and each definition, made of <Terms> is related to a given <Concept> 
 
+In a <Conceptionary>, each entry is a <Concept> associated to 1 definition … … and this definition is made of <Concepts> (denoted by its preferred <Term>)
+
+In some way, a <Conceptionary> is an inverse <Dictionary>
 
 IMPORTANT NOTE
 ==
