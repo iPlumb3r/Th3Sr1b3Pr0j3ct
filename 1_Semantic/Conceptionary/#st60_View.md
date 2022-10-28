@@ -80,13 +80,13 @@ Individuals
     </thead>
     <tbody>
         <tr>
-            <td>Quantum physic</td>
+            <td>Conceptionary (by Concepts)</td>
         </tr>
         <tr>
-            <td>Meteorology</td>
+            <td>Dictionary (by Terms)</td>
         </tr>
         <tr>
-            <td>Distributed web</td>
+            <td>Hybrid</td>
         </tr>
     </tbody>
 </table>
