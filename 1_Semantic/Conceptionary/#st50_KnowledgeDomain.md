@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Set of relevant <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">Concept</a> related to a particular topic.</td>
-            <td>Ensemble de <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">Concept</a> pertinents pour un sujet particulier.</td>
+            <td>Set of relevant <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">Concepts</a> related to a particular topic.</td>
+            <td>Ensemble de <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">Concepts</a> pertinents pour un sujet particulier.</td>
         </tr>
     </tbody>
 </table>
