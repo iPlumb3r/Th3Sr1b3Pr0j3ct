@@ -8,6 +8,9 @@ In some way, this the Conceptinary of a Conceptionary !
 
 Key Concepts
 -
+A dozen of Concepts are required for building a Conceptionary, ...
+... but there is 3 key Concepts at the heart, used as bootstrap :
+
 <table>
     <thead>
         <tr>
@@ -36,7 +39,7 @@ Key Concepts
 </table>
 
 
-Important Remark about the "Semiotic Triangle"
+Important note about the "Semiotic Triangle"
 -
 It is funny (or dramatic ;-) to notice that the __Semiotic Triangle__ which incarnate relations between :
 * #st00 (The "Thing"), 
