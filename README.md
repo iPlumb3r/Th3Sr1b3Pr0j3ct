@@ -74,6 +74,10 @@ In order to better define "What Are We Talking About ?"
 
 ![WAWTA](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/WhatAreWeTalkingAbout.png)
 
+About <Conceptionary>
+==
+
+
 IMPORTANT NOTE
 ==
 This project in in "Stand-By" mode ...   
