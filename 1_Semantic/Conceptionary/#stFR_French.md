@@ -1,4 +1,4 @@
-#stFR
+#stFR (French)
 ==
 
 Prefered Label
