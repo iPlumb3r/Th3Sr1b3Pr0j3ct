@@ -1,6 +1,11 @@
 Conceptionary
 =
 
+Introduction
+-
+In this section we are defining all the required Concepts relevant for building a Conceptionary.
+In some way, this the Conceptinary of a Conceptionary !
+
 Key Concepts
 -
 <table>
