@@ -76,12 +76,13 @@ In order to better define "What Are We Talking About ?"
 
 About Conceptionary
 ==
-In a <Dictionary>, each entry is a <Term> associated to 1 (or N) definition(s) …
-… and each definition, made of <Terms> is related to a given <Concept> 
+In a Dictionary, each entry is a Term associated to 1 (or N) definition(s) …   
+… and each definition, made of Terms is related to a given Concept 
 
-In a <Conceptionary>, each entry is a <Concept> associated to 1 definition … … and this definition is made of <Concepts> (denoted by its preferred <Term>)
+In a Conceptionary, each entry is a Concept associated to 1 definition …   
+… and this definition is made of Concepts (denoted by its preferred Term)
 
-In some way, a <Conceptionary> is an inverse <Dictionary>
+In some way, a Conceptionary is an inverse Dictionary
 
 IMPORTANT NOTE
 ==
