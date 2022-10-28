@@ -1,4 +1,4 @@
-#st42
+#st42 (Alternative)
 ==
 
 Prefered Label
