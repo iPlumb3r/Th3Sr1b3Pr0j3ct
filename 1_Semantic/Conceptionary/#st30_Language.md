@@ -71,29 +71,19 @@ Comment(s)
 
 Individuals
 -
-
-Some examples : 
+ 
 <table>
     <thead>
         <tr>
-            <th>Example</th>
+            <th>Examples</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Tim Berner Lee</td>
+            <td>#stEN_English</td>
         </tr>
         <tr>
-            <td>Paris</td>
-        </tr>
-        <tr>
-            <td>Electricity</td>
-        </tr>
-        <tr>
-            <td>Topincs</td>
-        </tr>
-        <tr>
-            <td>Topic Maps</td>
+            <td>#stFR_French</td>
         </tr>
     </tbody>
 </table>
