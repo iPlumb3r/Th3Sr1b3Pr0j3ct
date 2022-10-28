@@ -1,4 +1,4 @@
-#st00
+#st00 (Thing)
 ==
 
 Prefered Label
