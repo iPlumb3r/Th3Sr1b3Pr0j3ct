@@ -1,4 +1,4 @@
-#st21
+#st21 (Term)
 ==
 
 Prefered Label
