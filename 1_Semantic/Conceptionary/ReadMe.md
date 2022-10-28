@@ -36,7 +36,7 @@ Key Concepts
 </table>
 
 
-Important Remark
+Important Remark about the "Semiotic Triangle"
 -
 It is funny (or dramatic ;-) to notice that the __Semiotic Triangle__ which incarnate relations between :
 * #st00 (The "Thing"), 
