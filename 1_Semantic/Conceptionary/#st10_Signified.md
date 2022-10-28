@@ -23,8 +23,8 @@ Alternative Label(s)
 <table>
     <thead>
         <tr>
-            <th>English</th>
-            <th>French</th>
+            <th>Concept, Notion</th>
+            <th>Concept, Notion</th>
         </tr>
     </thead>
     <tbody>
@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+            <td>Mental representation of a <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st0_Thing.md">Thing</a>.</td>
+            <td>Representation mentale d'une<a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st0_Thing.md">Chose</a>.</td>
         </tr>
     </tbody>
 </table>
