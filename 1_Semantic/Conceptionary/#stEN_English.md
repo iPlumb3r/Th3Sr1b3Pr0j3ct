@@ -1,4 +1,4 @@
-#stEN
+#stEN (English)
 ==
 
 Prefered Label
