@@ -89,9 +89,6 @@ IMPORTANT NOTE
 This project in in "Stand-By" mode ...   
 .. but thanks to <a href="https://github.com/iPlumb3r/KeepLink">KeepLink</a>, the specification effort could (re-)start soon, just because of the model flexibility of this tool
 
-Resources
--
-<a href="https://t.me/TheScribeProject">Telegram</a>.  
 
 Visual Pitch 1/2
 -
