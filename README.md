@@ -84,19 +84,15 @@ In a __Conceptionary__, each entry is a __Concept__ associated to 1 definition â
 
 > In some way, a __Conceptionary__ is an inverse __Dictionary__
 
+
+Structure
+==
+In the UseCases section : Some exemples of Conceptionaries
+
 IMPORTANT NOTE
 ==
 This project in in "Stand-By" mode ...   
 .. but thanks to <a href="https://github.com/iPlumb3r/KeepLink">KeepLink</a>, the specification effort could (re-)start soon, just because of the model flexibility of this tool
-
-
-Visual Pitch 1/2
--
-![VisualPitch](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/VisualPitch_1.png)
-
-Visual Pitch 2/2
--
-![VisualPitch](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/VisualPitch_2.png)
 
 Icon
 -
