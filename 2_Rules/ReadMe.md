@@ -1,8 +1,14 @@
 Rules
 ==
 
-To be defined ...
+Introduction
+-
 
+Rules are "IF ..., THEN ..." statements with are using CONCEPTS of the Conceptionay in order to define specific behaviors 
+
+
+List
+-
 
 <table>
     <thead>
@@ -15,8 +21,11 @@ To be defined ...
     <tbody>
         <tr>
             <td>r00</td>
-            <td>zero prefered label</td>
+            <td>zero preferred label</td>
             <td>force user to define a preferred label</td>
         </tr>
     </tbody>
 </table>
+
+
+To Be Complted ...
