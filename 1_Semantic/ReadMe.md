@@ -9,9 +9,6 @@ The "Semantic Model" show the links which are connecting <a href="https://github
 The "root" of this model is the <a href="https://en.wikipedia.org/wiki/Triangle_of_reference">Semiotic Triangle" (or Triangle of Reference" or "Triangle of Meaning")</a> 
 
 
-Models versions
--
-
 Conceptual Model v2
 -
 
