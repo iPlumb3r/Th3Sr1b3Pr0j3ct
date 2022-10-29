@@ -74,7 +74,7 @@ In order to better define "What Are We Talking About ?"
 
 ![WAWTA](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/WhatAreWeTalkingAbout.png)
 
-About Conceptionary
+About conceptionaries
 ==
 In a __Dictionary__, each entry is a __Term__ associated to 1 (or N) definition(s) …   
 … and each definition, made of __Terms__ is related to a given __Concept__ 
