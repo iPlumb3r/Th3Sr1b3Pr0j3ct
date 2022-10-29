@@ -87,8 +87,9 @@ In a __Conceptionary__, each entry is a __Concept__ associated to 1 definition â
 
 Structure
 ==
-In the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/0_Requirements">Requirement</a> section : A consise visual pitch
+In the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/0_Requirements">Requirement</a> section : A consise visual pitch   
 In the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/0_UseCases">Use Cases</a> section : Some exemples of Conceptionaries
+In the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/1_Semantic">Semantics</a> section : the conceptionay of conceptionaries and its semantic model
 
 IMPORTANT NOTE
 ==
