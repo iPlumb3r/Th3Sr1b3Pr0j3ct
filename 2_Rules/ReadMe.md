@@ -4,7 +4,7 @@ Rules
 Introduction
 -
 
-Rules are "IF ..., THEN ..." statements with are using CONCEPTS of the Conceptionay in order to define specific behaviors 
+Rules are "IF ..., THEN ..." statements which are using CONCEPTS of the Conceptionay in order to define specific behaviors 
 
 
 List
