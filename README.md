@@ -80,7 +80,7 @@ In a __Dictionary__, each entry is a __Term__ associated to 1 (or N) definition(
 … and each definition, made of __Terms__, is related to a given __Concept__ 
 
 In a __Conceptionary__, each entry is a __Concept__ associated to 1 definition …   
-… and this definition is made of __Concepts__ (denoted by its preferred __Term__)
+… and this definition is made of __Concepts__ (each denoted by its preferred __Term__)
 
 > In some way, a __Conceptionary__ is an inverse __Dictionary__
 
