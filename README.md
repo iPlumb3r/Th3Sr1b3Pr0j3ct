@@ -89,7 +89,7 @@ Structure
 ==
 In the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/0_Requirements">Requirement</a> section : A consise visual pitch   
 In the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/0_UseCases">Use Cases</a> section : Some exemples of __Conceptionaries__    
-In the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/1_Semantic">Semantics</a> section : the __Conceptionary__ of __Conceptionaries__  and its __Semantic Model__
+In the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/1_Semantic">Semantics</a> section : The __Conceptionary__ of __Conceptionaries__  and its __Semantic Model__
 
 IMPORTANT NOTE
 ==
