@@ -77,7 +77,7 @@ In order to better define "What Are We Talking About ?"
 About conceptionaries
 ==
 In a __Dictionary__, each entry is a __Term__ associated to 1 (or N) definition(s) …   
-… and each definition, made of __Terms__ is related to a given __Concept__ 
+… and each definition, made of __Terms__, is related to a given __Concept__ 
 
 In a __Conceptionary__, each entry is a __Concept__ associated to 1 definition …   
 … and this definition is made of __Concepts__ (denoted by its preferred __Term__)
