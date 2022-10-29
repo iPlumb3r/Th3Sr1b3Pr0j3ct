@@ -1,5 +1,7 @@
-Semantic
+Semantic Model
 ==
+
+The "Semantic Model" show the links which are connecting Concepts of the Conceptionary
 
 Conceptual Model v2
 -
