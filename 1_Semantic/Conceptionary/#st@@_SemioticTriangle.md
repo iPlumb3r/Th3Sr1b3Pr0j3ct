@@ -1,4 +1,4 @@
-#st000 (Semiotic Triangle)
+#st@@ (Semiotic Triangle)
 ==
 
 Prefered Label
