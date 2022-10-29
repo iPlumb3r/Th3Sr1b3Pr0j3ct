@@ -9,7 +9,7 @@ In some way, this the Conceptinary of a Conceptionary !
 Key Concepts
 -
 A dozen of Concepts are required for building a Conceptionary, ...   
-... but there is 3 key Concepts at the heart, used as a bootstrap :
+... but there is only 4 key Concepts at the heart, used as a bootstrap :
 
 <table>
     <thead>
@@ -20,6 +20,11 @@ A dozen of Concepts are required for building a Conceptionary, ...
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@</a></td>
+            <td>Semiotic triangle</td>
+            <td>A core model about "where the meaning comes from ?"</td>
+        </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00</a></td>
             <td>Thing</td>
