@@ -1,7 +1,7 @@
 Rules
 ==
 
-To be defined
+To be defined ...
 
 
 <table>
