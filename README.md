@@ -76,13 +76,13 @@ In order to better define "What Are We Talking About ?"
 
 About Conceptionary
 ==
-In a Dictionary, each entry is a Term associated to 1 (or N) definition(s) …   
-… and each definition, made of Terms is related to a given Concept 
+In a __Dictionary__, each entry is a __Term__ associated to 1 (or N) definition(s) …   
+… and each definition, made of __Terms__ is related to a given __Concept__ 
 
-In a Conceptionary, each entry is a Concept associated to 1 definition …   
-… and this definition is made of Concepts (denoted by its preferred Term)
+In a __Conceptionary__, each entry is a __Concept__ associated to 1 definition …   
+… and this definition is made of __Concepts__ (denoted by its preferred __Term__)
 
-In some way, a Conceptionary is an inverse Dictionary
+> In some way, a __Conceptionary__ is an inverse __Dictionary__
 
 IMPORTANT NOTE
 ==
