@@ -42,16 +42,3 @@ A dozen of Concepts are required for building a Conceptionary, ...
         </tr>
     </tbody>
 </table>
-
-
-Important note about the "Semiotic Triangle"
--
-It is funny (or dramatic ;-) to notice that the __Semiotic Triangle__ which incarnate relations between :
-* #st00 (The "Thing"), 
-* #st10 (The "Signified") => its mental representation 
-* #st20 (The "Signified) => more often the "Term" used to talk about it  
-
-... make consensus from a conceptual point of view, but NOT from a terminological one !!!   
-(Cf nb of terms at each extremity of the triangle)   
-
-![SemioticTriangle](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/SemioticTriangle_NoConsensus.jpg)
