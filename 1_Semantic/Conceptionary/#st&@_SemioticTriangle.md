@@ -13,7 +13,7 @@ Prefered Label
     <tbody>
         <tr>
             <td>Semiotic triangle</td>
-            <td>Triangke sémiotique</td>
+            <td>Triangle sémiotique</td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +63,7 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td></td>
+            <td>It connect <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00 (Thing)</a>, <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Concept)</a> and <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signified.md">#st20 (Term)</a></td>
             <td></td>
         </tr>
     </tbody>
