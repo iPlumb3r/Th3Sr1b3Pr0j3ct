@@ -70,7 +70,7 @@ _Note : EBR ID allows to <a href="https://github.com/iPlumb3r/BigPicture/blob/ma
 
 Motivation
 -
-In order to better define "What Are We Talking About ?"
+This project is all about "How to grasp the meaning of what Are We Talking About ?"
 
 ![WAWTA](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/WhatAreWeTalkingAbout.png)
 
