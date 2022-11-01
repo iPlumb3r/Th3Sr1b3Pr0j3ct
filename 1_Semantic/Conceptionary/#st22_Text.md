@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>A suit of Terms used for definig a Concept.</td>
-            <td>Une suite de Termes utilisé pour définir un Concept.</td>
+            <td>A suit of <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Terms)</a> used for defining a <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a>.</td>
+            <td>Une suite de <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Termes)</a> utilisé pour définir un <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signifié)</a>.</td>
         </tr>
     </tbody>
 </table>
