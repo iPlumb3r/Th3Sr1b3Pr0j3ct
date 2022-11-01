@@ -47,7 +47,7 @@ Description
     <tbody>
         <tr>
             <td>Sign (Term, Icon, Sound, ...) used for referencing a <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a> and thus a <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00 (Thing)</a>.</td>
-            <td>Signe (Terme, Icone, Son, ...) utilisé pour dénoter un <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signifié)</a> et donc une <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00 (Chose)</a>.</td>
+            <td>Signe (Terme, Icône, Son, ...) utilisé pour dénoter un <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signifié)</a> et donc une <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00 (Chose)</a>.</td>
         </tr>
     </tbody>
 </table>
