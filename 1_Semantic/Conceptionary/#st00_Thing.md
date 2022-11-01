@@ -47,7 +47,7 @@ Description
     <tbody>
         <tr>
             <td>A thing of reality, which may be tangible (atom-based) or intangible (energy-based, bit-based or concept-based), particular or general.</td>
-            <td>Une chose de la réalité, pouvant tangible (constitué d'atomes) ou intangible (constitué d'énergie, de bits ou de concepts), particulière ou générale.</td>
+            <td>Une chose de la réalité, pouvant être tangible (constitué d'atomes) ou intangible (constitué d'énergie, de bits ou de concepts), particulière ou générale.</td>
         </tr>
     </tbody>
 </table>
