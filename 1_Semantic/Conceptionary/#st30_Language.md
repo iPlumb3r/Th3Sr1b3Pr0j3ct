@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Method of human communication, consisting of words used in a structured and conventional way and conveyed by speech, writing, or gesture.</td>
-            <td>Capacité, observée chez tous les hommes, d'exprimer leur pensée et de communiquer au moyen d'un système de signes vocaux et éventuellement graphiques.</td>
+            <td>Method of human communication, consisting of <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Terms)</a> used in a structured and conventional way and conveyed by speech, writing, or gesture.</td>
+            <td>Capacité, observée chez tous les hommes, d'exprimer leur pensée et de communiquer par des <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Termes)</a> transformable en signes vocaux.</td>
         </tr>
     </tbody>
 </table>
