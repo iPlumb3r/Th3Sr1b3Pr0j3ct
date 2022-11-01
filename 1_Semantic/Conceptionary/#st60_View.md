@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Perpective</td>
-            <td>Perpective</td>
+            <td>Perspective</td>
+            <td>Perspective</td>
         </tr>
     </tbody>
 </table>
@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Angle of attack on the links between <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">Concepts</a> and <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">Terms</a>.</td>
-            <td>Angle d'attaque sur les liens entre les <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">Concepts</a> et les <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">Termes</a>.</td>
+            <td>Angle of attack on the links between <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a> and <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#20 (Signifier)</a>.</td>
+            <td>Angle d'attaque sur les liens entre les <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signifié)</a> et les <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#20 (Signifiant)</a>.</td>
         </tr>
     </tbody>
 </table>
