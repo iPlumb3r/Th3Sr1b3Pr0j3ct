@@ -20,7 +20,7 @@ A dozen of __Concepts__ are required for building a given __Conceptionary__, ...
     <thead>
         <tr>
             <th>Concept ID</th>
-            <th>Prefered Label</th>
+            <th>Preferred Term</th>
             <th>Description</th>      
         </tr>
     </thead>
