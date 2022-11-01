@@ -67,8 +67,8 @@ Comment(s)
             <td>Peut-être une chose tangible (constitué d'atomes) ou intangible (basé sur de l'énergie, des bits ou des concepts.</td>
         </tr>
         <tr>
-            <td>Could be anything tangible (atom-based) or intangible (energy-based, bit-based or concept-based).</td>
-            <td>Peut-être une chose tangible (constitué d'atomes) ou intangible (basé sur de l'énergie, des bits ou des concepts.</td>
+            <td>Root of the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@ (Semiotic Triangle)</a></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
