@@ -4,7 +4,7 @@ Conceptionary
 Introduction
 -
 In this section we are defining all the required __Concepts__ relevant for building a __Conceptionary__.   
-In some way, this a __Meta-Conceptionary__ (aka the "__Conceptionary__ of the __Conceptionary__") !
+In some way, this a __Meta-Conceptionary__ (aka the "__Conceptionary__ of a __Conceptionary__") !
 
 Note
 -
