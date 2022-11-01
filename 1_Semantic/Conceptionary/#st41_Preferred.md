@@ -68,3 +68,21 @@ Comment(s)
         </tr>
     </tbody>
 </table>
+
+
+Instance of(s)
+-
+<table>
+    <thead>
+        <tr>
+            <th>English</th>
+            <th>French</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st40_Preference.md">#st40 (Preference)</a></td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st40_Preference.md">#st40 (Préference)</a></td>
+        </tr>
+    </tbody>
+</table>
