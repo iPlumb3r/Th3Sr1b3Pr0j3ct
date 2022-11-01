@@ -81,13 +81,13 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>A particular __Thing__.</td>
+            <td>A particular Thing.</td>
         </tr>
         <tr>
-            <td>Mental representation of a __Thing__</td>
+            <td>Mental representation of a Thing.</td>
         </tr>
         <tr>
-            <td>Sign (Term, Icon, Sound, ...) used for referencing a __Signified__</td>
+            <td>Sign (Term, Icon, Sound, ...) used for referencing a Signified<./td>
         </tr>
     </tbody>
 </table>
