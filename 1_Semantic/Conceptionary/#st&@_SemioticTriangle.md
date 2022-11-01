@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <th>Triangle of reference, Triangle of meaning</th>
-            <th>Triangle de la signification</th>
+            <td>Triangle of reference, Triangle of meaning</td>
+            <td>Triangle de la signification</td>
         </tr>
     </tbody>
 </table>
