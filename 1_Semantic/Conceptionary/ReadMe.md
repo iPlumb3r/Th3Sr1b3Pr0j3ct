@@ -13,8 +13,8 @@ __Concept__ is just a useful (coz more widespread/popular) <a href="https://gith
 
 Key Concepts
 -
-A dozen of __Concepts__ are required for building a __Conceptionary__, ...   
-... but there is only 4 key __Concepts__ at the heart, used as a bootstrap :
+A dozen of __Concepts__ are required for building a given __Conceptionary__, ...   
+... but we only need 4 key __Concepts__ at the heart, used as a bootstrap :
 
 <table>
     <thead>
