@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Word, Label, ...</td>
-            <td>Mot, Label, ...</td>
+            <td>Word, Label, Tag</td>
+            <td>Mot, Label, Tag</td>
         </tr>
     </tbody>
 </table>
