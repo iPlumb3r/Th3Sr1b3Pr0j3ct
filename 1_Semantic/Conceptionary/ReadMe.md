@@ -7,7 +7,7 @@ In this section we are defining all the required __Concepts__ relevant for build
 In some way, this the "__Conceptionary__ of a __Conceptionary__" !
 
 Note
-_
+-
 __Concept__ is just a useful (coz more widespread/popular) alternative <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Terms) for <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a>
 
 Key Concepts
