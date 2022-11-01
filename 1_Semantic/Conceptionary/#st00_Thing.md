@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Item, Element, ...</td>
-            <td>Item, Elément, ...</td>
+            <td>Item, Element</td>
+            <td>Item, Elément</td>
         </tr>
     </tbody>
 </table>
