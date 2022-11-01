@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Concept, Notion</td>
-            <td>Concept, Notion</td>
+            <td>Concept, Notion, Idea</td>
+            <td>Concept, Notion, Idée</td>
         </tr>
     </tbody>
 </table>
