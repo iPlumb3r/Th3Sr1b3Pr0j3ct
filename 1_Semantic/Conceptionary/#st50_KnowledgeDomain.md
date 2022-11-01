@@ -30,7 +30,7 @@ Alternative Label(s)
     <tbody>
         <tr>
             <td>Favorite</td>
-            <td>Favorit</td>
+            <td>Favori</td>
         </tr>
     </tbody>
 </table>
@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Set of relevant <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">Concepts</a> related to a particular topic.</td>
-            <td>Ensemble de <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">Concepts</a> pertinents pour un sujet particulier.</td>
+            <td>Set of relevant <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a> related to a particular topic.</td>
+            <td>Ensemble de <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signifié.md">#st10 (Signified)</a> pertinents pour un sujet particulier.</td>
         </tr>
     </tbody>
 </table>
@@ -63,8 +63,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>To Be Defined.</td>
-            <td>A définir.</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -80,13 +80,13 @@ Individuals
     </thead>
     <tbody>
         <tr>
-            <td>Quantum physic</td>
+            <td>Quantum physic / Physique quantique</td>
         </tr>
         <tr>
-            <td>Meteorology</td>
+            <td>Meteorology / Météorologie</td>
         </tr>
         <tr>
-            <td>Distributed web</td>
+            <td>Distributed Web / Web ditribué</td>
         </tr>
     </tbody>
 </table>
