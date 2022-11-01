@@ -69,6 +69,24 @@ Comment(s)
     </tbody>
 </table>
 
+Specializes (has super-type)
+-
+<table>
+    <thead>
+        <tr>
+            <th>English</th>
+            <th>French</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifier)</a></td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifiant)</a></td>
+        </tr>
+    </tbody>
+</table>
+
+
 Individuals
 -
 
