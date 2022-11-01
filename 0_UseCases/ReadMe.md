@@ -52,7 +52,7 @@ Examples
         </tr>
         <tr>
             <td>Value Chain</td>
-            <td><a href="https://roamresearch.com/#/app/EntangledBootstrap/">Value Chain Conceptionary</a></td>
+            <td><a href="https://roamresearch.com/#/app/EntangledBootstrap/graph">Value Chain Conceptionary</a></td>
             <td><a href="https://roamresearch.com/">Roam</a> / "Notes"</td>
         </tr>
         <tr>
@@ -62,7 +62,7 @@ Examples
         </tr>
         <tr>
             <td><a href="https://github.com/assemblee-virtuelle/pair">Project Actor Idea Resource (PAIR)</a></td>
-            <td><a href="https://roamresearch.com/#/app/pair">PAIR Conceptionary</a></td>
+            <td><a href="https://roamresearch.com/#/app/pair/graph">PAIR Conceptionary</a></td>
             <td><a href="https://roamresearch.com/">Roam</a> / "Notes"</td>
         </tr>
     </tbody>
