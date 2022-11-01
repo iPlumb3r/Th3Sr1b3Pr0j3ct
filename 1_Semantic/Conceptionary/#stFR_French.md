@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>Language spoken by French people.</td>
-            <td>Langage parlé par les Français.</td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Language.md">#st20 (Language)</a> spoken by French people.</td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Language.md">#st20 (Langage)</a> parlé par les Français.</td>
         </tr>
     </tbody>
 </table>
