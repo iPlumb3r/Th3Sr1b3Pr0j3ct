@@ -63,8 +63,10 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Bla bla</td>
-            <td>Bla bla</td>
+        <tr>
+            <td>"Final" component of the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@ (Semiotic triangle)</a></td>
+            <td>Elément "final" du <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@ (Triangle sémiotique)</a></td>
+        </tr>
         </tr>
     </tbody>
 </table>
