@@ -13,7 +13,7 @@ It allows to build several kind of relations between <a href="https://github.com
 
 Note
 -
-__Concept__ is a useful _alternative label_ for <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a> 
+__Concept__ is a useful _alternative label_ for <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a>   
 __Term__ is a useful _alternative label_ for <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifier)</a>
 
 Main relations
