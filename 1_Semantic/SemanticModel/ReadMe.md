@@ -23,6 +23,14 @@ Main relations
 * definition : give a necessary & sufficient description (usually based on others __Concepts__)
 * annotation : give a complementary description (could be based on others __Concepts__)
 
+Contextualization
+-
+Previous meaning can be completed by using 3 kind of context for each relation
+* Language
+* Preference
+* Knowledge Domain
+
+
 Conceptual Model v2
 -
 
