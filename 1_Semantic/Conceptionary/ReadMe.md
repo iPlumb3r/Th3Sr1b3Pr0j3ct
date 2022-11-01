@@ -3,13 +3,17 @@ Conceptionary
 
 Introduction
 -
-In this section we are defining all the required Concepts relevant for building a Conceptionary.   
-In some way, this the Conceptinary of a Conceptionary !
+In this section we are defining all the required __Concepts__ relevant for building a __Conceptionary__.   
+In some way, this the "__Conceptionary__ of a __Conceptionary__" !
+
+Note
+_
+__Concept__ is just a useful (coz more widespread/popular) alternative <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Terms) for <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a>
 
 Key Concepts
 -
-A dozen of Concepts are required for building a Conceptionary, ...   
-... but there is only 4 key Concepts at the heart, used as a bootstrap :
+A dozen of __Concepts__ are required for building a __Conceptionary__, ...   
+... but there is only 4 key __Concepts__ at the heart, used as a bootstrap :
 
 <table>
     <thead>
