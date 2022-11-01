@@ -25,10 +25,10 @@ Main relations
 
 Contextualization
 -
-Previous meaning can be completed by using 3 kind of context for each relation
-* Language
-* Preference
-* Knowledge Domain
+Previous meaning can be completed by using 3 kinds of context for each relation
+* Language : using differents languages can be used as a strengh in order to target the rigth meaning
+* Preference : using differents levels of preference can be used for specifying a precise meaning
+* Knowledge Domain : specifying a given knowledge domain can provide a strong meaning convergence
 
 
 Conceptual Model v2
