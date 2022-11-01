@@ -109,7 +109,7 @@ Some examples :
             <td>Character chain of "Electricity" (or "Electricité)</td>
         </tr>
         <tr>
-            <td>Character chain of "Topic Maps" (or (Cartes topiques")</td>
+            <td>Character chain of "Topic Maps" (or Cartes topiques")</td>
         </tr>
         <tr>
             <td>Character chain of "Semantic Web" (or "Web sémantique")</td>
