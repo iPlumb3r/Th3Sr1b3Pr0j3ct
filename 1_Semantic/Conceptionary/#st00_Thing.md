@@ -66,6 +66,14 @@ Comment(s)
             <td>Root of the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@ (Semiotic triangle)</a></td>
             <td>Racine du <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@ (Triangle sémiotique)</a></td>
         </tr>
+        <tr>
+            <td>Conceptualized by <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a></td>
+            <td>Conceptualisé par un <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signifié)</a></td>
+        </tr>   
+         <tr>
+            <td>Represented by <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifier)</a></td>
+            <td>Representé par un <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifiant)</a></td>
+        </tr>
     </tbody>
 </table>
 
