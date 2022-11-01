@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td>Langue,...</td>
+            <td>Parlance, Wording, Speech</td>
+            <td>Langue</td>
         </tr>
     </tbody>
 </table>
