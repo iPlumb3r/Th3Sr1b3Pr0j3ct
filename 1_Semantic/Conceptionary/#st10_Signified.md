@@ -63,8 +63,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Pivot element of the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@ (Semiotic triangle)</a></td>
+            <td>Elément "pivot" du <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@ (Triangle sémiotique)</a></td>
         </tr>
     </tbody>
 </table>
