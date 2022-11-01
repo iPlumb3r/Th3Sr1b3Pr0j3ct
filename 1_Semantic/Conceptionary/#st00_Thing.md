@@ -98,7 +98,7 @@ Some examples :
             <td>Electricity / Electricité</td>
         </tr>
         <tr>
-            <td>Topic Maps</td>
+            <td>Topic Maps : Cartes topiques</td>
         </tr>
         <tr>
             <td>Semantic Web / Web sémantique</td>
