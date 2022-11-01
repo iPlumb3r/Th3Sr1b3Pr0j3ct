@@ -18,7 +18,7 @@ __Term__ is a useful _alternative label_ for <a href="https://github.com/iPlumb3
 
 Main relations
 -
-3 type of relations allow to give a strong meaning to each __Concept__ of the __Conceptionary__ :
+3 type of relations allow to give a 360° degree meaning to each __Concept__ of the __Conceptionary__ :
 * denotation : give a short description based on 1 __Term__ (or very few __Terms__)
 * definition : give a necessary & sufficient description (usually based on others __Concepts__)
 * annotation : give a complementary description (could be based on others __Concepts__)
