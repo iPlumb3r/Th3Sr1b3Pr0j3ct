@@ -95,13 +95,13 @@ Some examples :
             <td>Paris</td>
         </tr>
         <tr>
-            <td>Electricity</td>
-        </tr>
-        <tr>
-            <td>Topincs</td>
+            <td>Electricity / Electricité</td>
         </tr>
         <tr>
             <td>Topic Maps</td>
+        </tr>
+        <tr>
+            <td>Semantic Web / Web sémantique</td>
         </tr>
     </tbody>
 </table>
