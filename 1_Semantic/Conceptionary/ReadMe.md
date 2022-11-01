@@ -13,7 +13,7 @@ __Concept__ is just a useful (coz more widespread/popular) <a href="https://gith
 
 Note 2
 -
-When switching into the __Onto-Terminology__ approach, the key is to be able to grasp the __Concept__ behind the __Term__ ...
+When switching into the __Onto-Terminology__ approach, the key is to be able to grasp the __Concept__ behind the __Term__ ...    
 ... even if we are using _alternative_ __Term__ for a given __Concept__ instead of the _preferred_ __Term__ !!
  
 Key Concepts
