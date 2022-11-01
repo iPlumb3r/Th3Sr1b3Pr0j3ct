@@ -77,22 +77,24 @@ Some examples :
 <table>
     <thead>
         <tr>
-            <th>Individual</th>
-            <th>Type</th>
+            <th>Example</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Concept of "Tim Berner Lee"</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Cocnept of "Paris"</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Concept of "Electricity"</td>
+        </tr>
+        <tr>
+            <td>Concept of "Topincs"</td>
+        </tr>
+        <tr>
+            <td>Concept of "Topic Maps"</td>
         </tr>
     </tbody>
 </table>
