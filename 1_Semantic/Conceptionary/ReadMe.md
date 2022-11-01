@@ -41,7 +41,7 @@ A dozen of __Concepts__ are required for building a given __Conceptionary__, ...
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10</a></td>
             <td>Signified</td>
-            <td>Concept</td>
+            <td>Concept, Notion, Idea</td>
             <td>Mental representation of a <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00 (Thing)</a>.</td>
         </tr>
         <tr>
