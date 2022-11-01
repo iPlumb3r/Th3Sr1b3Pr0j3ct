@@ -35,7 +35,7 @@ A dozen of __Concepts__ are required for building a given __Conceptionary__, ...
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00</a></td>
             <td>Thing</td>
-            <td>Triangle of meaning</td>
+            <td>Item, Element</td>
             <td>A particular thing.</td>
         </tr>
         <tr>
