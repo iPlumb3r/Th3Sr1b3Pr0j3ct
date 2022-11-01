@@ -80,10 +80,10 @@ Individuals
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23stEN_English.md">English</a></td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23stEN_English.md">English</a> / Anglais</td> 
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23stFR_French.md">French</a></td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23stFR_French.md">French</a> / Français</td>
         </tr>
     </tbody>
 </table>
