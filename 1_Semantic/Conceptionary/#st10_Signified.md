@@ -85,7 +85,7 @@ Some examples :
             <td>Concept of "Tim Berner Lee"</td>
         </tr>
         <tr>
-            <td>Cocnept of "Paris"</td>
+            <td>Concept of "Paris"</td>
         </tr>
         <tr>
             <td>Concept of "Electricity"</td>
