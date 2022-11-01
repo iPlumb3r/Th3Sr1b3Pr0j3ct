@@ -88,7 +88,7 @@ Some examples :
             <td>Concept of "Paris"</td>
         </tr>
         <tr>
-            <td>Concept of "Electricity"</td>
+            <td>Concept of "Electricity" / "Electricité"</td>
         </tr>
         <tr>
             <td>Concept of "Topic Maps"</td>
