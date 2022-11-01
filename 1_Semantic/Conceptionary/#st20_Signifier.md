@@ -29,8 +29,8 @@ Alternative Label(s)
     </thead>
     <tbody>
         <tr>
-            <td>Sign</td>
-            <td>Signe</td>
+            <td>Sign, Symbol</td>
+            <td>Signe, Symbole</td>
         </tr>
     </tbody>
 </table>
