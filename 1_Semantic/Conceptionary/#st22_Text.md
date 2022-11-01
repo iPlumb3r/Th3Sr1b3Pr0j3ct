@@ -63,8 +63,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>A Text to define a Concept usually refers to other Concept(s).</td>
-            <td>Un Texte pour définir un Concept fait généralement référence à d'autre(s) Concept(s).</td>
+            <td>Such a text usually refers to some others <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a>.</td>
+            <td>Un tel texte fait généralement référence à d'autre(s) <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signifiés)</a>.</td>
         </tr>
     </tbody>
 </table>
