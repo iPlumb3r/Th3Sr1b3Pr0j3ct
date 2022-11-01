@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>A particular thing.</td>
-            <td>Une chose particulière.</td>
+            <td>A thing of reality, which may be tangible (atom-based) or intangible (energy-based, bit-based or concept-based), particular or general.</td>
+            <td>Une chose de la réalité, pouvant tangible (constitué d'atomes) ou intangible (constitué d'énergie, de bits ou de concepts), particulière ou générale.</td>
         </tr>
     </tbody>
 </table>
@@ -62,10 +62,6 @@ Comment(s)
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Could be anything tangible (atom-based) or intangible (energy-based, bit-based or concept-based).</td>
-            <td>Peut-être une chose tangible (constitué d'atomes) ou intangible (basé sur de l'énergie, des bits ou des concepts).</td>
-        </tr>
         <tr>
             <td>Root of the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@ (Semiotic triangle)</a></td>
             <td>Racine du <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@ (Triangle sémiotique)</a></td>
