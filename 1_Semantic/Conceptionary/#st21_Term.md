@@ -46,8 +46,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>A suit of letters.</td>
-            <td>Une suite de lettres.</td>
+            <td>A king of <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifier)</a> made of a suit of letters.</td>
+            <td>Un type de <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifiant)</a> constitué de d'une suite de lettres.</td>
         </tr>
     </tbody>
 </table>
