@@ -6,11 +6,16 @@ Introduction
 In this section we are defining all the required __Concepts__ relevant for building a __Conceptionary__.   
 In some way, this a __Meta-Conceptionary__ (aka the "__Conceptionary__ of a __Conceptionary__") !
 
-Note
+Note 1
 -
 __Concept__ is just a useful (coz more widespread/popular) <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st42_Alternative.md">#st42 (alternative)</a> <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Term)</a> for <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a>   
 (Which is the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st41_Preferred.md">#st41 (preferred)</a> <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Term)</a> in the context of this <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary">Meta-Conceptionary</a>).
 
+Note 2
+-
+When switching into the __Onto-Terminology__ approach, the key is to be able to grasp the __Concept__ behind the __Term__ ...
+... even if we are using _alternative_ __Term__ for a given __Concept__ instead of the _preferred_ __Term__ !!
+ 
 Key Concepts
 -
 A dozen of __Concepts__ are required for building a given __Conceptionary__, ...   
