@@ -70,7 +70,7 @@ Comment(s)
 </table>
 
 
-Instance of(s)
+Instance of
 -
 <table>
     <thead>
