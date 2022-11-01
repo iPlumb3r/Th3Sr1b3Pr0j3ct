@@ -8,7 +8,8 @@ In some way, this the "__Conceptionary__ of a __Conceptionary__" !
 
 Note
 -
-__Concept__ is just a useful (coz more widespread/popular) <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st42_Alternative.md">#st42 (alternative)</a> <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Term)</a> for <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a> (Which is the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st41_Preferred.md">#st41 (preferred)</a> <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Term)</a> in the context of this <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary">Conceptionary</a>).
+__Concept__ is just a useful (coz more widespread/popular) <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st42_Alternative.md">#st42 (alternative)</a> <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Term)</a> for <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a>   
+(Which is the <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st41_Preferred.md">#st41 (preferred)</a> <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Term)</a> in the context of this <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary">Conceptionary</a>).
 
 Key Concepts
 -
