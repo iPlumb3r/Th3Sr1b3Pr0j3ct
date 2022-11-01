@@ -72,7 +72,7 @@ Comment(s)
         </tr>   
          <tr>
             <td>Represented by <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifier)</a></td>
-            <td>Representé par un <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifiant)</a></td>
+            <td>Représenté par un <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifiant)</a></td>
         </tr>
     </tbody>
 </table>
