@@ -47,7 +47,7 @@ A dozen of __Concepts__ are required for building a given __Conceptionary__, ...
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
             <td>Signifier</td>
-            <td>Symbol</td>
+            <td>Sign, Symbol, Mark</td>
             <td>Sign (Term, Icon, Sound, ...) used for referencing a Concept (<a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a>).</td>
         </tr>
     </tbody>
