@@ -91,7 +91,7 @@ Some examples :
             <td>Concept of "Electricity" / "Electricité"</td>
         </tr>
         <tr>
-            <td>Concept of "Topic Maps"</td>
+            <td>Concept of "Topic Maps" / "Cartes topiques"</td>
         </tr>
         <tr>
             <td>Concept of "Semantic Web" / "Web sémantique"</td>
