@@ -21,6 +21,7 @@ A dozen of __Concepts__ are required for building a given __Conceptionary__, ...
         <tr>
             <th>Concept ID</th>
             <th>Preferred Term</th>
+            <th>Alternative(s) Term(s)</th>
             <th>Description</th>      
         </tr>
     </thead>
@@ -28,21 +29,25 @@ A dozen of __Concepts__ are required for building a given __Conceptionary__, ...
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@</a></td>
             <td>Semiotic triangle</td>
+            <td>Triangle of meaning, Triangle of reference</td>
             <td>A core model about "where the meaning comes from ?"</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00</a></td>
             <td>Thing</td>
+            <td>Triangle of meaning</td>
             <td>A particular thing.</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10</a></td>
-            <td>Signified (or Concept)</td>
+            <td>Signified</td>
+            <td>Concept</td>
             <td>Mental representation of a <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00 (Thing)</a>.</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
             <td>Signifier</td>
+            <td>Symbol</td>
             <td>Sign (Term, Icon, Sound, ...) used for referencing a Concept (<a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Signified)</a>).</td>
         </tr>
     </tbody>
