@@ -69,6 +69,24 @@ Comment(s)
     </tbody>
 </table>
 
+Generalizes (has sub-type)
+-
+<table>
+    <thead>
+        <tr>
+            <th>English</th>
+            <th>French</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Term)</a></td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st21_Term.md">#st21 (Terme)</a></td>
+        </tr>
+    </tbody>
+</table>
+
+
 Individuals
 -
 
