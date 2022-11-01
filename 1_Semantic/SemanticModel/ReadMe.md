@@ -10,9 +10,9 @@ The "root" of this model is the <a href="https://en.wikipedia.org/wiki/Triangle_
 
 It allows to build several kind of relations between <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Concept)</a> and <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Term)</a> ...   
 ... in order to give signification to <a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10 (Concept)</a>
-* denotation : give a short descripion based on 1 Term (or very few Terms)
-* definition : give a necessary & sufficient description (usually based on others Concepts)
-* annotation : give a complementary description (could be based on others Concepts)
+* denotation : give a short description based on 1 __Term__ (or very few __Terms__)
+* definition : give a necessary & sufficient description (usually based on others __Concepts__)
+* annotation : give a complementary description (could be based on others __Concepts__)
 
 Conceptual Model v2
 -
