@@ -91,10 +91,10 @@ Some examples :
             <td>Concept of "Electricity"</td>
         </tr>
         <tr>
-            <td>Concept of "Topincs"</td>
+            <td>Concept of "Topic Maps"</td>
         </tr>
         <tr>
-            <td>Concept of "Topic Maps"</td>
+            <td>Concept of "Semantic Web" / "Web sémantique"</td>
         </tr>
     </tbody>
 </table>
