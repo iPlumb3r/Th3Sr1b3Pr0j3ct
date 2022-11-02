@@ -43,6 +43,12 @@ English Dictionary
             <td>signified</td>
         </tr>
         <tr>
+            <td>semiotic triangle</td>
+            <td>alternative for</td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@</a></td>
+            <td>semiotic triangle</td>
+        </tr>
+        <tr>
             <td>sign</td>
             <td>alternative for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
