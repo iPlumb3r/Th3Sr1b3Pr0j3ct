@@ -30,7 +30,7 @@ English Dictionary
         <tr>
             <td>mark</td>
             <td>alternative for</td>
-            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifier)</a></td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
         </tr>
         <tr>
             <td>notion</td>
@@ -40,7 +40,7 @@ English Dictionary
         <tr>
             <td>sign</td>
             <td>alternative for</td>
-            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifier)</a></td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
         </tr>
         <tr>
             <td>signified</td>
@@ -50,12 +50,12 @@ English Dictionary
         <tr>
             <td>signifier</td>
             <td>preferred for</td>
-            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifier)</a></td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
         </tr>
         <tr>
             <td>symbol</td>
             <td>alternative for</td>
-            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20 (Signifier)</a></td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
         </tr>
         <tr>
             <td>thing</td>
