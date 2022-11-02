@@ -8,4 +8,4 @@ This view has an entry for each __Concept__ ...
 
 See
 -
-<a href="[https://github.com/babonet13/HelloWorld](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/1_Semantic/Conceptionary)/">Conceptionary</a>
+<a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/tree/master/1_Semantic/Conceptionary/">Conceptionary</a>
