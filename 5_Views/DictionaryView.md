@@ -94,4 +94,10 @@ English Dictionary
 </table>
 
 
+Graphical representation
+-
+Conceptual Model v2
+-
+
+![Graph](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/Onto-Terminology_EN.png)
 
