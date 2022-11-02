@@ -96,8 +96,7 @@ English Dictionary
 
 Graphical representation
 -
-Conceptual Model v2
--
+The previous dictionary can have a graphical representation like this :
 
 ![Graph](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/Onto-Terminology_EN.png)
 
