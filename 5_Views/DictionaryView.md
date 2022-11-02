@@ -73,6 +73,18 @@ English Dictionary
             <td>signifier</td>
         </tr>
         <tr>
+            <td>triangle of meaning</td>
+            <td>alternative for</td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@</a></td>
+            <td>semiotic triangle</td>
+        </tr>
+        <tr>
+            <td>tringle of reference</td>
+            <td>alternative for</td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st&@_SemioticTriangle.md">#st&@</a></td>
+            <td>semiotic triangle</td>
+        </tr>
+        <tr>
             <td>thing</td>
             <td>preferred for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00</a></td>
