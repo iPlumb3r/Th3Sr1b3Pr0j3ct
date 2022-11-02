@@ -103,7 +103,7 @@ The previous dictionary can have a graphical representation like this :
 
 Graphical representation (EN & FR)
 -
-Using several languages ofr definig a __Concept__ is a strenght, not a weakness
+Using several languages for defining a given __Concept__ wth __Terms__ is a strenght, not a weakness
 
 ![Graph](https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/images/Onto-Terminology_EN-FR.png)
 
