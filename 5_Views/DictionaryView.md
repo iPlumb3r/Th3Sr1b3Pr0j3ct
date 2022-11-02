@@ -18,8 +18,18 @@ English Dictionary
     </thead>
     <tbody>
         <tr>
+            <td>concept</td>
+            <td>alternative for</td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10</a></td>
+        </tr>
+        <tr>
+            <td>signified</td>
+            <td>preferred for</td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10</a></td>
+        </tr>
+        <tr>
             <td>thing</td>
-            <td>preferred Term for</td>
+            <td>preferred for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00</a></td>
         </tr>
     </tbody>
