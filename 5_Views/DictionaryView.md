@@ -14,6 +14,7 @@ English Dictionary
             <th>Term</th>
             <th>preference</th>
             <th>Concept</th>
+            <th>Prefered Term</th>
         </tr>
     </thead>
     <tbody>
@@ -21,46 +22,55 @@ English Dictionary
             <td>concept</td>
             <td>alternative for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10</a></td>
+            <td>signified</td>
         </tr>
         <tr>
             <td>idea</td>
             <td>alternative for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10</a></td>
+            <td>signified</td>
         </tr>
         <tr>
             <td>mark</td>
             <td>alternative for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
+            <td>signifier</td>
         </tr>
         <tr>
             <td>notion</td>
             <td>alternative for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10</a></td>
+            <td>signified</td>
         </tr>
         <tr>
             <td>sign</td>
             <td>alternative for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
+            <td>signifier</td>
         </tr>
         <tr>
             <td>signified</td>
             <td>preferred for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st10_Signified.md">#st10</a></td>
+            <td>signified</td>
         </tr>
         <tr>
             <td>signifier</td>
             <td>preferred for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
+            <td>signifier</td>
         </tr>
         <tr>
             <td>symbol</td>
             <td>alternative for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st20_Signifier.md">#st20</a></td>
+            <td>signifier</td>
         </tr>
         <tr>
             <td>thing</td>
             <td>preferred for</td>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct/blob/master/1_Semantic/Conceptionary/%23st00_Thing.md">#st00</a></td>
+            <td>thing</td>
         </tr>
     </tbody>
 </table>
